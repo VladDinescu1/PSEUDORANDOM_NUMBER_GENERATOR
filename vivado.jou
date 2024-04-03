@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Apr  2 21:02:08 2024
+# Process ID: 11188
+# Current directory: E:/Verilog/Problema_2_CV_pseudorandom
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9892 E:\Verilog\Problema_2_CV_pseudorandom\Problema_2_CV_pseudorandom_nr_generator.xpr
+# Log file: E:/Verilog/Problema_2_CV_pseudorandom/vivado.log
+# Journal file: E:/Verilog/Problema_2_CV_pseudorandom\vivado.jou
+# Running On: DESKTOP-NHVLCUB, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 4, Host memory: 12825 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/Verilog/Problema_2_CV_pseudorandom/Problema_2_CV_pseudorandom_nr_generator.xpr
+update_compile_order -fileset sources_1
+archive_project E:/Verilog/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir E:/Verilog/Problema_2_CV_pseudorandom/.Xil/Vivado-13944-DESKTOP-NHVLCUB_2 -force -include_local_ip_cache
